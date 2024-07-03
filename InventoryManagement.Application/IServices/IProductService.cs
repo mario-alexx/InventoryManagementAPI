@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InventoryManagement.Application.Services
+namespace InventoryManagement.Application.IServices
 {
     /// <summary>
     /// Service interface for managing products.

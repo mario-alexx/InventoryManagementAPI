@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using InventoryManagement.Application.DTOs;
+using InventoryManagement.Application.IServices;
 using InventoryManagement.Core.Entities;
 using InventoryManagement.Core.Repositories;
 using System;
